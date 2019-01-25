@@ -1,3 +1,7 @@
+Client manager app to manage client balances.
+Created with Create React App, Redux and Firebase during learning process.
+Use test@test.test password: test1234 to login or register.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
